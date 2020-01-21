@@ -1,0 +1,15 @@
+[package]
+name = "assignment7"
+version = "0.1.0"
+authors = ["Ahmed <ahmedqamar15@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/Ahmed090078601/assignment7"
+homepage = "https://github.com/Ahmed090078601/assignment7"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pakistan = "0.1.0"
+
+hr_table = {path = "hr_table"}
